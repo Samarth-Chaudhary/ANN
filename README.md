@@ -15,7 +15,7 @@ Each notebook includes the code, its actual run output, and a written
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 1. [Lab 1: Perceptron (OR Gate)](#-lab-1-perceptron-or-gate)
 2. [Lab 2: Sigmoid Neuron with Gradient Descent (AND Gate)](#-lab-2-sigmoid-neuron-with-gradient-descent-and-gate)
@@ -24,7 +24,7 @@ Each notebook includes the code, its actual run output, and a written
 
 ---
 
-## 🧠 Lab 1: Perceptron (OR Gate)
+## Lab 1: Perceptron (OR Gate)
 
 ### How it works
 
@@ -100,7 +100,7 @@ wrong shape for the data — more epochs will not fix it.
 
 ---
 
-## 🔢 Lab 2: Sigmoid Neuron with Gradient Descent (AND Gate)
+## Lab 2: Sigmoid Neuron with Gradient Descent (AND Gate)
 
 ### How it works
 
@@ -127,7 +127,7 @@ it typically needs far more epochs than the perceptron to fully settle.
   match with AND, with confident, polarized probabilities (`0.0000, 0.0203, 0.0203,
   0.9716`) rather than borderline ones.
 
-### 🔬 What Happens If... (sensitivity experiments)
+###  What Happens If... (sensitivity experiments)
 
 **What if the learning rate changes?** (2000 epochs each)
 
@@ -187,7 +187,7 @@ serious training problems.)
 
 ---
 
-## ⚖️ Comparison: Lab 1 vs Lab 2
+##  Comparison: Lab 1 vs Lab 2
 
 | Aspect | Lab 1 (Perceptron) | Lab 2 (Sigmoid Neuron) |
 |---|---|---|
@@ -203,7 +203,7 @@ serious training problems.)
 
 ---
 
-## 🎓 Viva Q&A
+##  Viva Q&A
 
 **Q1: Why does the Perceptron converge so quickly on OR (Lab 1)?**  
 A: OR is linearly separable with a wide margin between classes, so the model finds a
